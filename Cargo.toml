@@ -1,0 +1,10 @@
+[package]
+name = "rust-canvas"
+version = "0.1.0"
+authors = ["KR"]
+edition = "2018"
+
+[dependencies]
+
+[lib]
+crate-type = ["cdylib"]
