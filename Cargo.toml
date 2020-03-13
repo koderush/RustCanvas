@@ -1,5 +1,5 @@
 [package]
-name = "rust-canvas"
+name = "rust_canvas"
 version = "0.1.0"
 authors = ["KR"]
 edition = "2018"
