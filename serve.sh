@@ -1,5 +1,5 @@
 #!/bin/bash
 pushd
 cd www
-../server.py
+../http_serve.py
 popd
